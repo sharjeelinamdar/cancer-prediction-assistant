@@ -1,0 +1,150 @@
+{
+  "saved_at_utc": "2026-03-29T08:14:29.738736+00:00",
+  "source": "report-analyze",
+  "data": {
+    "hemoglobin": {
+      "value": 14.5,
+      "range": [
+        13.0,
+        16.5
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "rbc": {
+      "value": 4.79,
+      "range": [
+        4.5,
+        5.5
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "wbc": {
+      "value": 10570.0,
+      "range": [
+        4000.0,
+        10000.0
+      ],
+      "status": "high",
+      "confidence": "high"
+    },
+    "hematocrit": {
+      "value": 43.3,
+      "range": [
+        40.0,
+        49.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "mcv": {
+      "value": 90.3,
+      "range": [
+        83.0,
+        101.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "mch": {
+      "value": 30.2,
+      "range": [
+        27.1,
+        32.5
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "mchc": {
+      "value": 33.4,
+      "range": [
+        32.5,
+        36.7
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "rdw": {
+      "value": 13.6,
+      "range": [
+        11.6,
+        14.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "platelets": {
+      "value": 150000.0,
+      "range": [
+        150000.0,
+        410000.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "mpv": {
+      "value": 14.0,
+      "range": [
+        7.5,
+        10.3
+      ],
+      "status": "high",
+      "confidence": "medium"
+    },
+    "neutrophils": {
+      "value": 73.0,
+      "range": [
+        40.0,
+        80.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "lymphocytes": {
+      "value": 19.0,
+      "range": [
+        20.0,
+        40.0
+      ],
+      "status": "low",
+      "confidence": "high"
+    },
+    "eosinophils": {
+      "value": 2.0,
+      "range": [
+        1.0,
+        6.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "monocytes": {
+      "value": 6.0,
+      "range": [
+        2.0,
+        10.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "basophils": {
+      "value": 0.0,
+      "range": [
+        0.0,
+        2.0
+      ],
+      "status": "normal",
+      "confidence": "high"
+    },
+    "vitamin_b12": {
+      "value": 148.0,
+      "range": [
+        187.0,
+        833.0
+      ],
+      "status": "low",
+      "confidence": "medium"
+    }
+  }
+}

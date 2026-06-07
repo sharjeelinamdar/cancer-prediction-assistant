@@ -1,0 +1,14 @@
+{
+  "saved_at_utc": "2026-03-14T12:22:33.000Z",
+  "source": "report-analyze",
+  "data": {
+    "hemoglobin": { "value": 13.4, "range": [13.0, 16.5], "status": "normal", "confidence": "high" },
+    "rbc": { "value": 4.58, "range": [4.5, 5.5], "status": "normal", "confidence": "high" },
+    "wbc": { "value": 10480.0, "range": [4000.0, 10000.0], "status": "high", "confidence": "high" },
+    "platelets": { "value": 205000.0, "range": [150000.0, 410000.0], "status": "normal", "confidence": "high" },
+    "mpv": { "value": 9.8, "range": [7.5, 10.3], "status": "normal", "confidence": "high" },
+    "neutrophils": { "value": 79.0, "range": [40.0, 80.0], "status": "normal", "confidence": "high" },
+    "lymphocytes": { "value": 19.0, "range": [20.0, 40.0], "status": "low", "confidence": "high" },
+    "vitamin_b12": { "value": 198.0, "range": [187.0, 833.0], "status": "normal", "confidence": "medium" }
+  }
+}
